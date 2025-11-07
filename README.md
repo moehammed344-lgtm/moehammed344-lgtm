@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Syu'banul Umam Azmat Khan al-Bantani</h1>
 <h3 align="center">💚 Founder & Lead Developer of Reown Docs</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2ECC71&lines=Empowering+Developers+Through+Open+Documentation;Building+Efficient+and+Collaborative+Systems;Founder+of+Reown+Docs;Open+Source+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=2ECC71&lines=Empowering+Developers+Through+Open+Documentation;Building+Efficient+and+Collaborative+Systems;Open+Source+Researcher" alt="Typing SVG" />
 </p>
 
 ---
